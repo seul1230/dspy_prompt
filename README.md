@@ -1,6 +1,8 @@
 # DSPy를 이용한 프롬프트 자동 최적화
 
-> DSPy 프레임워크를 활용해 LLM 기반 애플리케이션을 개발하고, 다양한 실험을 진행합니다. 
+DSPy 프레임워크를 활용해 LLM 기반 애플리케이션을 개발하고, 다양한 실험을 진행하는 공간입니다.
+
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*5bWUR3N5ki5mE5D6aGZLQA.png"/>
 
 DSPy는 프롬프트 자동 최적화와 구성 모듈화를 통해, 복잡한 LLM 파이프라인을 안정적이고 재사용 가능하게 만드는 Python 라이브러리입니다.
 
@@ -16,6 +18,7 @@ DSPy는 프롬프트 자동 최적화와 구성 모듈화를 통해, 복잡한 L
 - 진행 예정
   - DSPy에 Langchain Tool 연동
 
+<br>
 
 ### 📂 폴더 구조
 
